@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class cau225
+public class bai225
  {
     public static void main(String[] args) {
         // Nhập hai số từ người dùng
