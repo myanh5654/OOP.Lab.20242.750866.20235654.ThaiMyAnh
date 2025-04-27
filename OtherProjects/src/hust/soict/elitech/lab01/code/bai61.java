@@ -1,3 +1,4 @@
+package hust.soict.elitech.lab01.code;
 
 import javax.swing.JOptionPane;
 public class bai61 {

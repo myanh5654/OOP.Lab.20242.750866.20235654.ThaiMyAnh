@@ -1,3 +1,4 @@
+package hust.soict.elitech.lab02.src;
 
 public class Aims {
 

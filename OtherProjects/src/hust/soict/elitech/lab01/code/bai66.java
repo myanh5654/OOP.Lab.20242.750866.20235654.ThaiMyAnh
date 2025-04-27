@@ -1,3 +1,4 @@
+package hust.soict.elitech.lab01.code;
 import java.util.Scanner;
 
 public class bai66 {
