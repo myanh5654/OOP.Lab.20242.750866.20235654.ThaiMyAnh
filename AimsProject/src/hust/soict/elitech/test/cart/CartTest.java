@@ -1,7 +1,7 @@
 package hust.soict.elitech.test.cart;
 
-import hust.soict.hedspi.aims.cart.Cart;
-import hust.soict.hedspi.aims.media.DigitalVideoDisc;
+import hust.soict.elitech.aims.cart.Cart;
+import hust.soict.elitech.aims.media.DigitalVideoDisc;
 
 public class CartTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package hust.soict.hedspi.garbage;
+package hust.soict.elitech.garbage;
 
 import java.nio.file.Paths;
 import java.nio.file.Files;

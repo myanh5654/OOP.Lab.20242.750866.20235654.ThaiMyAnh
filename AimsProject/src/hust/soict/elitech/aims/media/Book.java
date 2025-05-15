@@ -1,4 +1,4 @@
-package hust.soict.hedspi.aims.media;
+package hust.soict.elitech.aims.media;
 
 import java.util.*;
 

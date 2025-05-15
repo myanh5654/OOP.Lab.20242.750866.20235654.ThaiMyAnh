@@ -1,7 +1,7 @@
-package hust.soict.hedspi.test.media;
+package hust.soict.elitech.test.media;
 
 import java.util.ArrayList;
-import hust.soict.hedspi.aims.media.*;
+import hust.soict.elitech.aims.media.*;
 
 public class MediaTest {
     public static void main(String[] args) {
